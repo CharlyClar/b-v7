@@ -1,4 +1,4 @@
-<h1 align="center">Boltz-1:
+<h1 align="center">B-v7:
 
 Democratizing Biomolecular Interaction Modeling
 </h1>
